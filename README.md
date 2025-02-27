@@ -4,7 +4,8 @@
 The map captures all of the (a) dedicated bike parking that I pass, and (b) bike paths that I cycle upon when
 commuting to and from UCC.
 
-https://tbozzio.github.io/UCC-Bikemap/#
+<a href="https://tbozzio.github.io/UCC-Bikemap/#" target="_blank">https://tbozzio.github.io/UCC-Bikemap/#</a>
+
 
 **Methodology:**
 
