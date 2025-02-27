@@ -1,5 +1,8 @@
 # UCC-Bikemap
-GG6544_Cloud-Based GIS - QGIS - CA1+2
+**GG6544_Cloud-Based GIS - QGIS - CA1+2**
+
+The map captures all of the (a) dedicated bike parking that I pass, and (b) bike paths that I cycle upon when
+commuting to and from UCC.
 
 https://tbozzio.github.io/UCC-Bikemap/#
 
@@ -8,10 +11,12 @@ https://tbozzio.github.io/UCC-Bikemap/#
 + Development of the Mobile GIS survey :
   + This was created with QField - https://qfield.org/:
   + With 2 geographic features - 'BikeParking" layer as points, and "CycleLanes" layer as lines.
-+ The following schemae describe the attributes & value maps for the 2 layers.
++ The following schema describes the attributes & value maps for the 2 layers.
    + The base map (and schema) was created in QGIS - https://qgis.org/
+   + There are photos for all of the "CycleLanes" layer's lines.
 
-```"CycleLanes" layer:
+```
+"CycleLanes" layer:
 
 + Description
   + Freetext
@@ -76,4 +81,4 @@ https://tbozzio.github.io/UCC-Bikemap/#
   + Integer
 ```
 
-+ There are photos for all of the "CycleLanes" layer's lines.
+
