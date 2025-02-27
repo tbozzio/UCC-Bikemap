@@ -18,12 +18,12 @@ https://tbozzio.github.io/UCC-Bikemap/#
 ```
 "CycleLanes" layer:
 
-+ Description
-  + Freetext
-+ Photo
-  + Image
-+ Width in Metres
-  + Integer
++ Description (text)
+  + <Freetext description>
++ Photo (attachment)
+  + <Image>
++ Width in Metres (integer)
+  + <Integer Value>
 + Road-facing Barrier (value map)
   + No
   + Yes - plastic pole
@@ -62,8 +62,8 @@ https://tbozzio.github.io/UCC-Bikemap/#
 + Contraflow (value map)
   + Yes
   + No
-+ Length in Metres
-  + integer
++ Length in Metres (integer)
+  + <Integer value>
 + Cleanliness (value map)
   + Clear
   + Muddy
@@ -75,10 +75,10 @@ https://tbozzio.github.io/UCC-Bikemap/#
 + Sheltered (value map)
   + Yes
   + No
-+ Number of berths
-  + Integer
-+ Berths occupied
-  + Integer
++ Number of berths (integer)
+  + <Integer value>
++ Berths occupied (integer)
+  + <Integer value>
 ```
 
 
